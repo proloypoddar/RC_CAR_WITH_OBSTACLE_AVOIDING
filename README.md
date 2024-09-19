@@ -35,8 +35,8 @@ This project is an Arduino-based remote-controlled (RC) car with an added obstac
 - When the obstacle avoidance mode is enabled (`W` command), the ultrasonic sensor mounted on the front of the car scans for obstacles. If an obstacle is detected within a set range (20 cm), the car will stop, and the servo will rotate the sensor to scan left and right to find a clear path before proceeding.
 
 ## Circuit Diagram
-![Circuit Diagram](images/RC_CAR_WITH_OBSTACLE_AVOIDING.png)
 
+![alt text](<RC_CAR_WITH _OBSTACLE AVODING.png>)
 
 
 ## Code
