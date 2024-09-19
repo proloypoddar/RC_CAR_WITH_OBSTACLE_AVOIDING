@@ -38,6 +38,7 @@ This project is an Arduino-based remote-controlled (RC) car with an added obstac
 
 ![Circuit Diagram](images/RC_CAR_WITH_OBSTACLE_AVOIDING.png)
 
+
 ## Code
 
 The code is available in the `RC_Car_with_Obstacle_Avoiding.ino` file. You can upload this to your Arduino using the Arduino IDE.
