@@ -36,7 +36,7 @@ This project is an Arduino-based remote-controlled (RC) car with an added obstac
 
 ## Circuit Diagram
 
-_Include a circuit diagram here to show how components are connected._
+![Circuit Diagram](images/RC_CAR_WITH_OBSTACLE_AVOIDING.png)
 
 ## Code
 
